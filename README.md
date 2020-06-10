@@ -1,16 +1,5 @@
-# game
+# 消灭小飞蝇
 
-A new Flutter game application.
+一个基于 [Flame](https://github.com/flame-engine/flame) 的 Demo 小游戏
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> 本 Demo 参考自 [阿航的博客](https://blog.bugcatt.com/archives/279) ，转载请注明出处
